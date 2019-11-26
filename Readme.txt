@@ -1,6 +1,3 @@
-Submitted By:
-Apoorva Agarwal - 9258-6592
-
 The program is a  multi-client file transfer protocol code.It establishes a connection between the server and the clients on the IPAddress and port_Number provided and asks for the credentials of the user to authenticate the user. If the IPAddress or Port_Number is not known it shows a statement unknown host. Various commands such as displaying all the files in the directory of the server using the dir command ,uploads a file from the client folder to the server using the upload<filename> command and retrieves a file from the server to the client using the get < filename> command can be selected one by one by the user.
 
 
